@@ -1,0 +1,62 @@
+
+=== LOWMONITOR | x86-64 ===
+
+1 CPU
+2 Puertos E/S
+3 Memoria
+4 Rendimiento
+5 Jerarquia
+6 SIMD
+7 Diagnostico completo
+0 Salir
+Opcion: 
+[CPU]
+Fabricante: GenuineIntel
+Procesador: Intel(R) Core(TM) i5-10210U CPU @ 1.60GHz
+Familia: 6
+Modelo: 142
+Stepping: 12
+Extensiones (hardware; AVX requiere soporte OS): SSE SSE2 AVX AVX2 
+
+[PUERTOS E/S]
+IN/OUT 8/16/32 bits requieren privilegios I/O (ioperm/iopl).
+Sin permisos no se ejecutan instrucciones de acceso: estado NO DISPONIBLE.
+Puertos previstos: 0x60 teclado, 0x61 panel, 0x3F8 COM1.
+No se escribe en puertos de hardware para evitar cambios peligrosos.
+
+[MEMORIA: buffer de 1 MiB]
+Memoria RAM del sistema (kB): 5773744
+Patron AA - bits diferentes: 0
+Patron 55 - bits diferentes: 0
+Patron incremental - bits diferentes: 0
+
+[RENDIMIENTO: benchmark controlado]
+Ciclos TSC (aprox.): 14070998
+Operaciones del bucle (estimadas): 20000000
+Ciclos por operacion estimados x1000: 703
+Operaciones por ciclo estimadas x1000: 1421
+Nota: no son IPC/CPI de instrucciones retiradas; para eso se requieren PMU/perf.
+
+[JERARQUIA: acceso dependiente, ciclos por salto aproximados]
+Registros (bucle): 1
+Buffer 16 KiB (aprox. L1): 3
+Buffer 128 KiB (aprox. L2): 7
+Buffer 2 MiB (aprox. L3): 11
+Buffer 32 MiB (aprox. RAM/LLC): 13
+Los tamanos de cache dependen del CPU; los buffers NO garantizan un nivel concreto.
+
+[SIMD SSE2: suma, multiplicacion, comparacion]
+Suma (primer elemento): 4
+Multiplicacion (primer elemento): 4
+Comparacion igual (mascara primer elemento): 4294967295
+SSE2 disponible: operaciones sobre 4 enteros de 32 bits realizadas.
+
+1 CPU
+2 Puertos E/S
+3 Memoria
+4 Rendimiento
+5 Jerarquia
+6 SIMD
+7 Diagnostico completo
+0 Salir
+Opcion: 

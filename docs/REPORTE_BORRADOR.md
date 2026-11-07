@@ -1,8 +1,12 @@
-# LowMonitor — reporte técnico (BORRADOR)
+# LowMonitor — reporte técnico
+**Estudiante:** 
+Jason Anibal Miza Ovalle – Carné: 0910-23-17929
+Carlos Rolando Molina Reynosa – Carné: 9941-18-19380
+Bryon Josue Salvador Rosario Lopez – Carné: 7690-23-6328
+Stephany Gisselle Reyes Aguilar – Carné: 5190-23-12936
 
-**Estudiante:** [Nombre completo]  
 **Curso:** Arquitectura de Computadoras  
-**Fecha:** [Fecha de pruebas]
+
 
 ## 1. Objetivo y entorno
 Desarrollar una aplicación Linux ELF64 con NASM para diagnosticar características del procesador, verificar memoria de usuario y explorar mediciones de tiempo y SIMD. Registrar versión de Ubuntu, CPU, NASM y equipo en que se validó.

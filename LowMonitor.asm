@@ -1,6 +1,4 @@
-; LowMonitor - proyecto educativo x86-64 Linux / NASM
-; Todas las mediciones son locales. No modifica puertos fisicos.
-; Autor: completar antes de entregar. Licencia MIT.
+
 default rel
 section .data
 banner db 10,'=== LOWMONITOR | x86-64 ===',10,0
